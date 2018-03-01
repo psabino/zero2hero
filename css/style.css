@@ -36,14 +36,51 @@ Author: uiCookies.com
 # Mid grey (sub header) #666666
 # -------------------------------------------------------------------*/
 
+/* --------------------------------------
+ * Custom
+ *------------------------------------------*/
+
+ .btn-cta {
+    font-weight:600;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #88c70f;
+    border: 2px solid #88c70f;
+    padding:4px 15px 6px 15px;
+    margin-left:30px;
+    margin-top:5px;
+    background-color: transparent;
+ }
+    .btn-cta a:hover{
+        color:#6d9f0c;
+        -webkit-transition : all 0.3s ease 0s;
+        -moz-transition    : all 0.3s ease 0s;
+        -o-transition      : all 0.3s ease 0s;
+        transition         : all 0.3s ease 0s;
+    }
+
+    .btn-cta:hover{
+        color:#6d9f0c;
+        border: 2px solid #6d9f0c;
+        -webkit-transition : all 0.3s ease 0s;
+        -moz-transition    : all 0.3s ease 0s;
+        -o-transition      : all 0.3s ease 0s;
+        transition         : all 0.3s ease 0s;
+    }
+
+/* --------------------------------------
+ * Original
+ *------------------------------------------*/
+
 body {
-    font-family : 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size   : 17px;
     line-height : 1.7em;
     color       : #353e55;
     font-weight : 100;
     background  : #ffffff;
-    border      : 10px solid #fff;
     }
 
 /* --------------------------------------
@@ -163,17 +200,17 @@ ul {
 
 /*btn-default*/
 .btn-default {
-    color            : #ffffff;
+    color            : #88c70f;
     background-color : transparent;
-    border-color     : #ffffff;
+    border-color     : #88c70f;
     }
 
 .btn-default:hover,
 .btn-default:focus,
 .btn-default:active:focus {
     background-color : transparent;
-    color            : #fd367e;
-    border-color     : #fd367e;
+    color            : #6d9f0c;
+    border-color     : #6d9f0c;
     }
 
 button:focus,
@@ -242,7 +279,6 @@ button:focus,
     background     : transparent;
     margin         : 0;
     font-size      : 15px;
-    text-transform : uppercase;
     }
 
 @media (max-width : 768px) {
@@ -280,7 +316,7 @@ button:focus,
 
 .main-menu .nav li a:hover,
 .main-menu .nav li.active a {
-    color      : #fd367e;
+    color      : rgba(255, 255, 255, 0.5);
     background : transparent;
     }
 
@@ -318,7 +354,7 @@ button:focus,
     left               : 0;
     top                : 0;
     z-index            : 999;
-    background         : #ffffff !important;
+    background         : #202020 !important;
     padding            : 5px 0;
     box-shadow         : 0 2px 5px rgba(0, 0, 0, .1);
     -webkit-transition : all .5s ease-in-out;
@@ -327,7 +363,7 @@ button:focus,
     }
 
 .sticky-nav .nav li a {
-    color : #0e1555;
+    color : #FFFFFF;
     }
 
 .sticky-nav .navbar-toggle .icon-bar{
@@ -377,7 +413,14 @@ button:focus,
 
 .jumbotron .content h1 {
     color       : #ffffff;
-    font-weight : bold;
+    font-weight : 700;
+    margin-bottom:-10px;
+    }
+
+.jumbotron .content h2 {
+    color       : #ffffff;
+    font-weight : 300;
+    font-size: 69px;
     }
 
 .jumbotron .content p.lead {
@@ -754,21 +797,3 @@ button:focus,
     top        : 65%;
     }
 
-/* --------------------------------------
- * Custom
- *------------------------------------------*/
-
- #btn-cta {
-    width: 150px;
-    height: 17px;
-    mix-blend-mode: undefined;
-    font-family: OpenSans;
-    font-size: 18px;
-    font-weight: 600;
-    font-style: normal;
-    font-stretch: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    text-align: left;
-    color: #88c70f;
- }
