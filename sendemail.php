@@ -6,7 +6,7 @@
     header( 'Content-type: application/json' );
 
 
-    $to         = 'uicookiez@gmail.com'; //put your email here
+    $to         = 'sqlbr@hotmail.com'; //put your email here
 
     $email_template = 'simple.html';
 
