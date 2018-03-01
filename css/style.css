@@ -141,7 +141,7 @@ h6 {
  * LINK STYLE
  *------------------------------------------*/
 a {
-    color              : #fd367e;
+    color              : #36a4eb;
     text-decoration    : none;
     -webkit-transition : all 0.3s ease 0s;
     -moz-transition    : all 0.3s ease 0s;
@@ -196,16 +196,20 @@ ul {
 
 /*btn-primary*/
 .btn-primary {
-    background-color : #fd367e;
-    border-color     : #fd367e;
+    background-color : #88c70f;
+    border-color     : #88c70f;
     }
 
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active:focus {
     background   : transparent;
-    color        : #fd367e;
-    border-color : #fd367e;
+    color:#6d9f0c;
+    border: 2px solid #6d9f0c;
+    -webkit-transition : all 0.3s ease 0s;
+    -moz-transition    : all 0.3s ease 0s;
+    -o-transition      : all 0.3s ease 0s;
+    transition         : all 0.3s ease 0s;
     }
 
 /*btn-default*/
@@ -764,7 +768,7 @@ button:focus,
 .form-control:focus,
 .form-control:active {
     box-shadow   : none;
-    border-color : #fd367e;
+    border-color : #88c70f;
     }
 
 
