@@ -356,8 +356,12 @@ button:focus,
 
     .navbar-collapse {
         margin-top : 10px;
-        background: #fff;
+        background: #202020;
         }
+    }
+
+    .nav {
+        background:#202020;
     }
 
 
@@ -381,7 +385,7 @@ button:focus,
     }
 
 .sticky-nav .navbar-toggle .icon-bar{
-    background: #333;
+    background: #fff;
     }
 
 @media (max-width: 768px) {
