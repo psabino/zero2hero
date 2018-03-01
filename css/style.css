@@ -70,6 +70,16 @@ Author: uiCookies.com
         transition         : all 0.3s ease 0s;
     }
 
+.perfil-linkedin{
+    color:#36a4eb;
+    padding-bottom:10px;
+}
+    .perfil-linkedin a{
+        color:#36a4eb;
+        font-size:14px;
+        margin-left:5px;
+    }
+
 /* --------------------------------------
  * Original
  *------------------------------------------*/
@@ -523,7 +533,7 @@ button:focus,
     }
 
 .team .thumbnail img {
-    width : 100%;
+    width : 70%;
     }
 
 .team .thumbnail .caption {
@@ -531,12 +541,11 @@ button:focus,
     }
 
 .team .thumbnail h3 {
-    font-size        : 16px;
+    font-size        : 18px;
     font-weight: bold;
-
-    margin           : 0 40px;
-    text-transform   : uppercase;
-    padding          : 10px 0;
+    color: #36a4eb;
+    margin: 0 0 0px;
+    padding-top      : 10px;
     }
 
 
@@ -572,33 +581,43 @@ button:focus,
 /* --------------------------
  * Agenda
  *---------------------------*/
-.section-ajenda .session {
+.section-agenda .session {
     padding       : 15px 0;
     border-left   : 1px solid #eeeeee;
     margin-bottom : 40px;
     }
 
-.section-ajenda .session time {
+.section-agenda .session time {
     padding       : 5px 25px 15px;
     border-bottom : 1px solid #eeeeee;
     display       : inline-block;
     }
 
-.section-ajenda .session h2 {
+.section-agenda .session h2 {
     margin : 20px 0 0 20px;
+    font-size:22px;
+    color: #36a4eb;
+    font-weight: 400;
     }
 
-.section-ajenda .session h3 {
-    margin         : 20px 0 20px 20px;
-    font-size      : 20px;
-    text-transform : uppercase;
+.section-agenda .session h3 {
+    margin         : 0px 0 0px 20px;
+    font-size      : 18px;
     }
 
-.section-ajenda .session h3 span {
+.section-agenda .session h3 span {
     font-size   : 14px;
     display     : block;
     line-height : 1;
     }
+
+.section-agenda .session h4 {
+    margin         : 20px 0 0px 20px;
+    font-size      : 18px;
+    font-weight: 300;
+    color:#ccc;
+    }
+
 
 /* --------------------------
  * Pricing Table
