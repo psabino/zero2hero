@@ -753,3 +753,22 @@ button:focus,
     text-align : center;
     top        : 65%;
     }
+
+/* --------------------------------------
+ * Custom
+ *------------------------------------------*/
+
+ #btn-cta {
+    width: 150px;
+    height: 17px;
+    mix-blend-mode: undefined;
+    font-family: OpenSans;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #88c70f;
+ }
