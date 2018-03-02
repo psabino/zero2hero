@@ -50,7 +50,7 @@ Author: uiCookies.com
     border: 2px solid #88c70f;
     padding:4px 15px 6px 15px;
     margin-left:30px;
-    margin-top:5px;
+    margin-top:-15px;
     background-color: transparent;
  }
     .btn-cta a:hover{
@@ -81,6 +81,10 @@ Author: uiCookies.com
 
 .logo {
     padding-top:5px;
+}
+
+b, strong {
+    font-weight: 400 !important;
 }
 
 /* --------------------------------------
