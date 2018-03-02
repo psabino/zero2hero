@@ -73,11 +73,10 @@ Author: uiCookies.com
 .perfil-linkedin{
     color:#36a4eb;
     padding-bottom:10px;
+    text-align: center;
 }
     .perfil-linkedin a{
-        color:#36a4eb;
-        font-size:14px;
-        margin-left:5px;
+        margin-left:2px;
     }
 
 /* --------------------------------------
@@ -511,8 +510,8 @@ button:focus,
  * About Event
  *-----------------------------------------------*/
 .about-event .lead {
-    font-size   : 19px;
-    line-height : 1.7em;
+    font-size   : 18px;
+    line-height : 1.5em;
     }
 
 .about-event address {
@@ -543,16 +542,16 @@ button:focus,
         }
     }
 
-.team .thumbnail img {
-    width : 70%;
-    }
+/*.team .thumbnail img {
+    width : 40%;
+    }*/
 
 .team .thumbnail .caption {
     padding          : 10px;
     }
 
 .team .thumbnail h3 {
-    font-size        : 18px;
+    font-size        : 20px;
     font-weight: bold;
     color: #36a4eb;
     margin: 0 0 0px;
@@ -589,18 +588,21 @@ button:focus,
     color : #333;
     }
 
+.team p{
+    font-size:14px;
+}
 /* --------------------------
  * Agenda
  *---------------------------*/
 .section-agenda .session {
     padding       : 15px 0;
-    border-left   : 1px solid #eeeeee;
+    border-left   : 2px solid rgba(54,164,235,0.5);
     margin-bottom : 40px;
     }
 
 .section-agenda .session time {
     padding       : 5px 25px 15px;
-    border-bottom : 1px solid #eeeeee;
+    border-bottom : 1px solid #ccc;
     display       : inline-block;
     }
 
@@ -614,6 +616,7 @@ button:focus,
 .section-agenda .session h3 {
     margin         : 0px 0 0px 20px;
     font-size      : 18px;
+    font-weight: 400;
     }
 
 .section-agenda .session h3 span {
@@ -626,7 +629,6 @@ button:focus,
     margin         : 20px 0 0px 20px;
     font-size      : 18px;
     font-weight: 300;
-    color:#ccc;
     }
 
 
