@@ -1,0 +1,502 @@
+[
+    {
+        "UserName": "HugoPb7",
+        "Post": "Stagi no #Zero2Hero :) https://t.co/LlUtKxFQHR",
+        "score": "1"
+    },
+    {
+        "UserName": "logicinvent",
+        "Post": "Comprehensive slas!\n\n#fromzerotohero #zerotohero #fromzero2hero #zero2hero #microsoft",
+        "score": "0.999998927116394"
+    },
+    {
+        "UserName": "carlosmarcelobp",
+        "Post": "Excelente palestra de #MongoDB no  #zero2hero",
+        "score": "0.999995946884155"
+    },
+    {
+        "UserName": "callme_brubs",
+        "Post": "E voltamossss ❤ #zero2hero https://t.co/JwLgYOUwDM",
+        "score": "0.999863028526306"
+    },
+    {
+        "UserName": "crisreis",
+        "Post": ":D #zero2hero em Auditório Microsoft https://t.co/wBCDWrMK5u",
+        "score": "0.996975064277649"
+    },
+    {
+        "UserName": "Banarms",
+        "Post": "#zero2hero realmente e novamente TOP https://t.co/ZtNTelnfsr",
+        "score": "0.982054054737091"
+    },
+    {
+        "UserName": "Banarms",
+        "Post": "#Zero2hero TOP https://t.co/cslwvjVATd",
+        "score": "0.976405560970306"
+    },
+    {
+        "UserName": "callme_brubs",
+        "Post": "Valeu muito a pena não dormir direito (ou nada) pra vir ❤ #zero2hero",
+        "score": "0.972273111343384"
+    },
+    {
+        "UserName": "FelipeM66700638",
+        "Post": "Sensacional o workshop na microsoft !!! 100% FREE! \n#MongoDB #zero2hero",
+        "score": "0.956688523292542"
+    },
+    {
+        "UserName": "andre_lkc",
+        "Post": "RT @andre_lkc: @delbussoweb \nGrande explicação sobre Sharding no MongoDB.\n\n@ggattass \n\n#zero2hero",
+        "score": "0.955122351646423"
+    },
+    {
+        "UserName": "andre_lkc",
+        "Post": "@delbussoweb \nGrande explicação sobre Sharding no MongoDB.\n\n@ggattass \n\n#zero2hero",
+        "score": "0.950339257717133"
+    },
+    {
+        "UserName": "mathausluk",
+        "Post": "Join #zero2hero",
+        "score": "0.940075159072876"
+    },
+    {
+        "UserName": "logicinvent",
+        "Post": "O Cosmos DB possui controle de grande amrmazenamento.\n\n#fromzerotohero #zerotohero #fromzero2hero #zero2hero #microsoft",
+        "score": "0.935754656791687"
+    },
+    {
+        "UserName": "igorsantos_ist",
+        "Post": "#zero2hero amanhã! Estamos super animados!",
+        "score": "0.918150663375854"
+    },
+    {
+        "UserName": "AvelasFernando",
+        "Post": "Evento Zero2Hero esclarecendo muitas dúvidas da galera... Top demais..  #zero2hero",
+        "score": "0.89214164018631"
+    },
+    {
+        "UserName": "roberto_passos",
+        "Post": "CosmosDB Zero 2 Hero... Wonderful community event on Microsoft today. NoSQL! #Microsoft  #zero2hero https://t.co/3bwPn9SHiL",
+        "score": "0.890192031860352"
+    },
+    {
+        "UserName": "Priscil20165204",
+        "Post": "Evento top no #zero2hero",
+        "score": "0.88290548324585"
+    },
+    {
+        "UserName": "crisreis",
+        "Post": "Sábado é dia de que?? ... De aprender, é claro!! :) #zero2hero em Auditório Microsoft https://t.co/5Y5LT58KAU",
+        "score": "0.88135427236557"
+    },
+    {
+        "UserName": "Vedolin",
+        "Post": "#zero2hero Don't give up! Persist! https://t.co/dwkbL0xRHi",
+        "score": "0.880646884441376"
+    },
+    {
+        "UserName": "roberto_passos",
+        "Post": "Hoje o dia é na @MicrosoftBr. Excelente evento sobre #NoSQL e #AzureCosmosDB #zero2hero... Importante debate sobre como disponibilizar informações. https://t.co/z4QYXRaNW8",
+        "score": "0.873011589050293"
+    },
+    {
+        "UserName": "Larys2317",
+        "Post": "meu super heroi favorito é o ash ketchum\n#zero2hero",
+        "score": "0.867504358291626"
+    },
+    {
+        "UserName": "vdsrodrigo",
+        "Post": "Create table também tem no Cassandra!\n#zero2hero",
+        "score": "0.863974928855896"
+    },
+    {
+        "UserName": "Cayque_CAC",
+        "Post": "Concentrado na #zero2hero https://t.co/8wGr0NsJGP",
+        "score": "0.85906308889389"
+    },
+    {
+        "UserName": "alljunior",
+        "Post": "Testando o score no #zero2hero : legal! Show! Animal! Super fácil! Indispensável, inovador, inteligente, inspirador, admirável e cachorrinhos fofos, porque nada é mais positivo que isso...",
+        "score": "0.857207953929901"
+    },
+    {
+        "UserName": "Banarms",
+        "Post": "Balinha do poder #zero2hero https://t.co/pIqNhkR3XD",
+        "score": "0.856511235237122"
+    },
+    {
+        "UserName": "FelipeM66700638",
+        "Post": "Workshop NoSQL na Microsoft, conteudo de ponta e 100% Free! Filé do boi!!!   \n#zero2hero",
+        "score": "0.84699547290802"
+    },
+    {
+        "UserName": "callme_brubs",
+        "Post": "Eu to amando isso aqui #zero2hero",
+        "score": "0.841805875301361"
+    },
+    {
+        "UserName": "AzureCosmosDB",
+        "Post": "RT @delbussoweb: Panorâmica! Casa cheia, evento show! #zero2hero #nosql #MongoDB @AzureCosmosDB https://t.co/do3SfxzDZN",
+        "score": "0.839990973472595"
+    },
+    {
+        "UserName": "delbussoweb",
+        "Post": "Panorâmica! Casa cheia, evento show! #zero2hero #nosql #MongoDB @AzureCosmosDB https://t.co/do3SfxzDZN",
+        "score": "0.829280138015747"
+    },
+    {
+        "UserName": "logicinvent",
+        "Post": "Segundo o palestrante o teste tem que ser em produção haha!!\n\n#fromzerotohero #zerotohero #fromzero2hero #zero2hero #microsoft",
+        "score": "0.827759265899658"
+    },
+    {
+        "UserName": "LucasPa32476335",
+        "Post": "Show!!! Microsoft com palestras incríveis! É um prazer poder participar. #zero2hero https://t.co/DA1HYx91HI",
+        "score": "0.811155438423157"
+    },
+    {
+        "UserName": "Gabriel45967509",
+        "Post": "Outro nível aqui na #zero2hero https://t.co/WXPXisTN0y",
+        "score": "0.801525771617889"
+    },
+    {
+        "UserName": "Larys2317",
+        "Post": "Vai dar bom! #zero2hero",
+        "score": "0.795915007591248"
+    },
+    {
+        "UserName": "logicinvent",
+        "Post": "Apredendo um pouco na prática!!!\n\n#fromzerotohero #zerotohero #fromzero2hero #zero2hero https://t.co/fa9dcxBGnB",
+        "score": "0.795651316642761"
+    },
+    {
+        "UserName": "Larys2317",
+        "Post": "Não fecho com ouvintes de samba rock #zero2hero",
+        "score": "0.794087409973145"
+    },
+    {
+        "UserName": "Larys2317",
+        "Post": "#zero2hero  bom dia a todos mas só os que acordam no período da manhã\nboa tarde pra quem vai acordar a tarde \nquem acordar a noite que procure um emprego",
+        "score": "0.793237388134003"
+    },
+    {
+        "UserName": "logicinvent",
+        "Post": "A questão é como mudar o conceito relacional dentro da empresa, nosql parece uma grande jogada, mas como convencer?\n\n#fromzerotohero #zerotohero #fromzero2hero #zero2hero #microsoft",
+        "score": "0.791473031044006"
+    },
+    {
+        "UserName": "lucasdiassanta5",
+        "Post": "Fim do melhor evento!\n#Zero2Hero #TopAzure",
+        "score": "0.787711501121521"
+    },
+    {
+        "UserName": "Larys2317",
+        "Post": "Força time! #zero2hero",
+        "score": "0.787665188312531"
+    },
+    {
+        "UserName": "Larys2317",
+        "Post": "Na vida, se você não sai do lugar, você fica parado #zero2hero",
+        "score": "0.786227822303772"
+    },
+    {
+        "UserName": "Larys2317",
+        "Post": "Vitas é o melhor cantor #zero2hero",
+        "score": "0.778183579444885"
+    },
+    {
+        "UserName": "HaraYudji",
+        "Post": "RT @Cayque_CAC: Concentrado na #zero2hero https://t.co/8wGr0NsJGP",
+        "score": "0.774110436439514"
+    },
+    {
+        "UserName": "Dhakizzz",
+        "Post": "RT @Cayque_CAC: Concentrado na #zero2hero https://t.co/8wGr0NsJGP",
+        "score": "0.774110436439514"
+    },
+    {
+        "UserName": "CleomacioSilva",
+        "Post": "RT @Cayque_CAC: Concentrado na #zero2hero https://t.co/8wGr0NsJGP",
+        "score": "0.774110436439514"
+    },
+    {
+        "UserName": "Vincius75604942",
+        "Post": "RT @Cayque_CAC: Concentrado na #zero2hero https://t.co/8wGr0NsJGP",
+        "score": "0.774110436439514"
+    },
+    {
+        "UserName": "LucasPa32476335",
+        "Post": "RT @Gabriel45967509: Outro nível aqui na #zero2hero https://t.co/WXPXisTN0y",
+        "score": "0.770605981349945"
+    },
+    {
+        "UserName": "Gabriel45967509",
+        "Post": "RT @Gabriel45967509: Outro nível aqui na #zero2hero https://t.co/WXPXisTN0y",
+        "score": "0.770605981349945"
+    },
+    {
+        "UserName": "alljunior",
+        "Post": "Muito show a palestra sobre #redis e #cassandra no #zero2hero !!!",
+        "score": "0.768832147121429"
+    },
+    {
+        "UserName": "Jucyvanax",
+        "Post": "Dia produtivo para aprender um pouquinho mais.   #zero2hero https://t.co/oafk7UkZsh",
+        "score": "0.766013503074646"
+    },
+    {
+        "UserName": "delbussoweb",
+        "Post": "Galera chegando pra mais um #zero2hero aqui na @MicrosoftBr @AzureCosmosDB @MongoDB #MongoDB #NoSQL https://t.co/Tg7p7zJouG",
+        "score": "0.765586495399475"
+    },
+    {
+        "UserName": "rafael_hideo",
+        "Post": "Dia de aprendizado e risadas!! #zero2hero https://t.co/djWE5Ze6lW",
+        "score": "0.762665748596191"
+    },
+    {
+        "UserName": "BrunoAfonso2",
+        "Post": "Vamos a mais um dia de aprendizado.\n#zero2hero https://t.co/T2KHupMHeF",
+        "score": "0.76246041059494"
+    },
+    {
+        "UserName": "Gabriel45967509",
+        "Post": "Outro nível aqui no #zero2hero https://t.co/eDvJiyLvAU",
+        "score": "0.761925220489502"
+    },
+    {
+        "UserName": "mathausluk",
+        "Post": "M A T H A U S #zero2hero",
+        "score": "0.760761260986328"
+    },
+    {
+        "UserName": "BragaRonni",
+        "Post": "Mais um sábado, menos um sábado; rumo ao próximo conhecimento. #zero2hero #cosmodb #Microsoft https://t.co/P2iPcdAtHN",
+        "score": "0.760261535644531"
+    },
+    {
+        "UserName": "logicinvent",
+        "Post": "Você pode utilizar aplicativos sem servidor.\n\n#fromzerotohero #zerotohero #fromzero2hero #zero2hero #microsoft",
+        "score": "0.758479773998261"
+    },
+    {
+        "UserName": "Amanda60935449",
+        "Post": "Conference #Zero2Hero",
+        "score": "0.756135225296021"
+    },
+    {
+        "UserName": "yanborowski",
+        "Post": "Aprendendo um pouco mais sobre NoSQL hoje na Microsoft. #zero2hero #nosql #cosmosdb #azure https://t.co/vYzOfCJRp3",
+        "score": "0.755527853965759"
+    },
+    {
+        "UserName": "LucasPa32476335",
+        "Post": "Show!! Microsoft como sempre com palestras incríveis! #zero2hero",
+        "score": "0.755252182483673"
+    },
+    {
+        "UserName": "Priscil20165204",
+        "Post": "#zero2hero aguardem! https://t.co/QpU7leCeG0",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "LucasPa32476335",
+        "Post": "#zero2hero https://t.co/igYV50zVsy",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "Banarms",
+        "Post": "Ta nao #zero2hero https://t.co/buUvUU2aBe",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "mathausluk",
+        "Post": "Alooooo azure #zero2hero",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "Banarms",
+        "Post": "Estabilidade é tudo #zero2hero",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "H4RD462",
+        "Post": "#zero2hero https://t.co/6VmHAqpmU8",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "FlvioAugustoGo3",
+        "Post": "#zero2hero https://t.co/FLBJEJQ4eR",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "c4trinck",
+        "Post": "@mathausluk é mathaus mesmo? #zero2hero",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "callme_brubs",
+        "Post": "@c4trinck @mathausluk E racista #zero2hero",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "Banarms",
+        "Post": "#zero2hero brabo https://t.co/AsdW4BxDJf",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "Priscil20165204",
+        "Post": "#zero2hero aprendendo #cosmodb https://t.co/MzGGL8Y8nX",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "mathausluk",
+        "Post": "Maloqueira + não tô entendendo nada kkkk #zero2hero https://t.co/M97qQFvPf1",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "Banarms",
+        "Post": "#zero2hero https://t.co/ebDfcuhZ03",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "Banarms",
+        "Post": "#zero2hero tendi tudo kkkk https://t.co/drQBU2po3i",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "Priscil20165204",
+        "Post": "#zero2hero #zerotohero https://t.co/3NCY4XbC5v",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "Priscil20165204",
+        "Post": "#zero2hero https://t.co/HBGbamTeme",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "FelipeM66700638",
+        "Post": "Vem pra  #zero2hero",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "logicinvent",
+        "Post": "#fromzerotohero #zerotohero #fromzero2hero #zero2hero https://t.co/Rzqmw3OzQD",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "fepisPrg",
+        "Post": "#zero2hero",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "logicinvent",
+        "Post": "Partições horizontais.\n\n#fromzerotohero #zerotohero #fromzero2hero #zero2hero",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "logicinvent",
+        "Post": "#fromzerotohero #zerotohero #fromzero2hero #zero2hero https://t.co/UnMUTcKjNR",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "logicinvent",
+        "Post": "Comparativo ...\n#fromzerotohero #zerotohero #fromzero2hero #zero2hero https://t.co/i3YwevaDu7",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "logicinvent",
+        "Post": "#fromzerotohero #zerotohero #fromzero2hero #zero2hero https://t.co/XL04bAdq7G",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "logicinvent",
+        "Post": "#fromzerotohero #zerotohero #fromzero2hero #zero2hero https://t.co/zgcRcdhC2I",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "logicinvent",
+        "Post": "#fromzerotohero #zerotohero #fromzero2hero #zero2hero",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "logicinvent",
+        "Post": "#zerotohero #fromzero2hero #zero2hero https://t.co/HwkEff5dRv",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "mathausluk",
+        "Post": "Melhor experiência #zero2hero https://t.co/IacH6IHBMQ",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "fsabha",
+        "Post": "#zero2hero. Será?!!!! #microsoftSP https://t.co/yjwIdz77w7",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "mathausluk",
+        "Post": "Segura nois.\n\n#zero2hero https://t.co/IomKvI2RYU",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "nunesfabio76",
+        "Post": "#zero2hero",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "mathausluk",
+        "Post": "🤔#zero2hero https://t.co/NISc2zCqgQ",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "isaac_zs",
+        "Post": "#zero2hero https://t.co/fP0ZsTA1sY",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "Beatrizmatsui",
+        "Post": "#zero2hero",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "Larys2317",
+        "Post": "#zero2hero https://t.co/lycdztPreq",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "Larys2317",
+        "Post": "#zero2hero https://t.co/NZR2wwM3JU",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "Larys2317",
+        "Post": "somos todas vencedoras #amigas #zero2hero #sóasmaistop",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "HaraYudji",
+        "Post": "#zero2hero https://t.co/Qdc9z2MpAM",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "Larys2317",
+        "Post": "#zero2hero",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "FlvioAugustoGo3",
+        "Post": "#zero2hero",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "andre_lkc",
+        "Post": "#zero2hero .. está sensacional.\nReplicaset",
+        "score": "0.753245174884796"
+    },
+    {
+        "UserName": "Marcelo73665232",
+        "Post": "#zero2hero https://t.co/UyPn210cOU",
+        "score": "0.753245174884796"
+    }
+]
